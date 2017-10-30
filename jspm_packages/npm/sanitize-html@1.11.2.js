@@ -1,0 +1,1 @@
+module.exports = require("npm:sanitize-html@1.11.2/index.js");
